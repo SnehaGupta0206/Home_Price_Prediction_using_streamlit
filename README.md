@@ -2,7 +2,7 @@
 
 Predicting residential house sale prices using regularized linear models, ensemble tree-based methods, hyperparameter optimization, model explainability, and a deployed interactive web app — built on the Ames, Iowa housing dataset.
 
-**[Live Demo](#)** &nbsp;·&nbsp; **[Research Report](reports/Research_Report.pdf)** &nbsp;·&nbsp; **[Action Plan](reports/Action_Plan.pdf)**
+**[Live Demo](https://homepricepredictionpython.streamlit.app/)** &nbsp;·&nbsp; **[Research Report](reports/Research_Report.pdf)** &nbsp;·&nbsp; **[Action Plan](reports/Action_Plan.pdf)**
 
 ---
 
