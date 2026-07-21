@@ -44,7 +44,7 @@ SHAP analysis confirms `TotalSF` and `OverallQual` as the dominant price drivers
 
 A Streamlit app lets users input house details and get an instant predicted price, along with a chart showing how predicted price shifts across build years — with and without renovation.
 
-![App Screenshot](reports/figures/app_screenshot.png)
+![App Screenshot](reports/figures/app_Screenshot.png)
 
 ## Tech Stack
 
