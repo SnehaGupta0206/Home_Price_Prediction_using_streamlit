@@ -38,13 +38,13 @@ This project goes beyond a basic regression exercise to build a full, production
 
 SHAP analysis confirms `TotalSF` and `OverallQual` as the dominant price drivers, consistent with correlation analysis — validating the model's behavior against domain intuition rather than relying on a black box.
 
-![SHAP Summary](reports/figures/shap_summary_bar.png)
+![SHAP Summary](reports/figures/shap_importance_bar.png)
 
 ## Web App
 
 A Streamlit app lets users input house details and get an instant predicted price, along with a chart showing how predicted price shifts across build years — with and without renovation.
 
-*( ![App Screenshot](reports/figures/app_screenshot.png))*
+![App Screenshot](reports/figures/app_screenshot.png)
 
 ## Tech Stack
 
